@@ -32,7 +32,12 @@
     },
     "max-kanji-continuous-len": {
       "max": 6,
-      "allow": ["普通自動車第一種運転免許"]
+      "allow": [
+        "普通自動車第一種運転免許",
+        "東京工科大学大学院",
+        "基本情報技術者試験",
+        "三級知的財産管理技能士"
+      ]
     },
     "max-ten": true,
     "no-doubled-conjunction": true,
