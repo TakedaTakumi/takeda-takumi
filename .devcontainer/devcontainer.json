@@ -1,0 +1,43 @@
+// See https://containers.dev/implementors/json_reference/ for configuration reference
+{
+  "name": "Untitled Node.js project",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.formatOnSave": true,
+        "markdown.preview.scrollEditorWithPreview": false,
+        "markdown-preview-enhanced.breakOnSingleNewLine": false,
+        "markdown-preview-enhanced.scrollSync": false,
+        "files.autoSave": "afterDelay",
+        "git-graph.commitDetailsView.location": "Docked to Bottom"
+ 
+      },
+      // cSpell: disable
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "oderwat.indent-rainbow",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "noy-shimotsuki.hyogai-kanji-checker",
+        "streetsidesoftware.code-spell-checker",
+        "mhutchie.git-graph",
+        "GitHub.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "GitHub.copilot",
+        "heaths.vscode-guid",
+        "taichi.vscode-textlint",
+        "davidanson.vscode-markdownlint"
+      ]
+      // cSpell: enable
+    }
+  }
+}
