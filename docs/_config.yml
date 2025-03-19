@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
-title: 武田 巧視の職務経歴書
+title: 職務経歴書
 description: 武田 巧視の職務経歴書
 plugins:
 - jekyll-remote-theme
