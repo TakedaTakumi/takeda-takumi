@@ -5,6 +5,7 @@
     "takumi"
   ],
   "ignoreWords": [
+    "devcontainers"
   ],
   "ignorePaths": [
     "vscode-extension",
