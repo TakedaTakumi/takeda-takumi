@@ -5,7 +5,8 @@
     "takumi"
   ],
   "ignoreWords": [
-    "devcontainers"
+    "devcontainers",
+    "textlint"
   ],
   "ignorePaths": [
     "vscode-extension",
@@ -14,6 +15,7 @@
     ".vscode-insiders",
     "node_modules",
     ".pnpm-store",
-    "pnpm-lock.yaml"
+    "pnpm-lock.yaml",
+    ".gitignore"
   ]
 }
