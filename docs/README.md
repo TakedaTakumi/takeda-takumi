@@ -64,19 +64,29 @@
 
 #### AWS
 
-xxx
+- EC2
+- 
 
 #### Google Cloud
 
-xxx
+- Cloud Run
+- Cloud SQL
 
 ### SaaS/PaaS
 
-xxx
+- Google firebase
+- Github
+- Github Actions
+- Notion
+- Miro
 
 ### その他
 
-xxx
+- Docker
+- OpenAPI
+- PrismaORM
+- Vitest
+- Fast Check
 
 ## 職務経歴詳細
 
