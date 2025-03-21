@@ -25,25 +25,40 @@
 
 ## スキル
 
+- 課題解決を意識した要件意義
+- 保守性を考慮した設計
+- 図表を用い、追跡性を考慮したドキュメント作成
+
 ### 開発手法
 
-xxx
+- チケット駆動開発
+- テスト駆動開発
+- ドメイン駆動設計
+- スクラム開発
 
 ### 言語
 
-xxx
+- Typescript
+- Javascript
+- Rust
+- C/C++
+- C#
 
 ### フレームワーク等
 
-xxx
+- NestJS
+- Vue.js
+- Nuxt
 
 ### 通信プロトコル
 
-xxx
+- REST
+- OpenGL
 
 ### RDB
 
-xxx
+- PosygreSQL
+- MySQL
 
 ### クラウド
 
