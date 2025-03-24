@@ -3,12 +3,13 @@
     "comments": true
   },
   "rules": {
-    "apostrophe": true,
     "doubled-spaces": true,
     "ja-hiragana-hojodoushi": true,
     "ja-nakaguro-or-halfwidth-space-between-katakana": true,
     "ja-no-abusage": true,
-    "ja-no-mixed-period": true,
+    "ja-no-mixed-period": {
+      "allowPeriodMarks": ["】"]
+    },
     "ja-no-redundant-expression": true,
     "ja-no-space-around-parentheses": true,
     "ja-no-space-between-full-width": true,
