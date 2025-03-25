@@ -7,7 +7,7 @@
 | 名前 | 　武田 巧視（たけだ たくみ） |
 | 生年月日 | 　1984 年 02 月 11 日 |
 | 居住地 | 　宮城県仙台市 |
-| 最終学歴 | 　片柳学園 東京工科大学大学院 <br/> 　バイオ・情報メディア研究科 <br/> 　メディアサイエンス専攻 |
+| 最終学歴 | 　片柳学園 東京工科大学大学院 <br/> バイオ・情報メディア研究科 <br/> メディアサイエンス専攻 |
 
 ## 資格
 
@@ -213,24 +213,35 @@ xxx
 
 【言語・フレームワーク】
 
-xxx
+- TypeScript
+- NestJS
+- Nuxt
 
 【インフラ】
 
-- AWS
-  - xxx
+- Google Cloud
+  - Cloud Run
+  - Cloud SQL
+  - Secret Manager
 
 【通信プロトコル】
 
-- xxx
+- REST
+- GraphQL
 
 【ツール】
 
-xxx
+- GitHub
+- GitHub Actions
+- Docker
+- Firebase
+- PostgreSQL
+- OpenAPI
+- Prisma
 
 【プロダクトが属する業界】
 
-xxx 業界
+建設業界
 
 【プロダクト概要】
 
@@ -275,34 +286,42 @@ xxx
 
 【チーム編成】
 
-- PM x 人
-- バックエンドエンジニア x 人
-- フロントエンドエンジニア x 人
+- PM 1 人
+- バックエンドエンジニア 2 人
 
 【ステークホルダー】
 
-- クライアント x 社
+- クライアント 1 社
 
 【言語・フレームワーク】
 
-xxx
+- TypeScript
+- NestJS
 
 【インフラ】
 
 - AWS
-  - xxx
+  - EC2
+  - RDS
+  - CloudWatch
+  - Secrets Manager
 
 【通信プロトコル】
 
-- xxx
+- REST
 
 【ツール】
 
-xxx
+- GitHub
+- GitHub Actions
+- Docker
+- MySQL
+- OpenAPI
+- Prisma
 
-【プロダクトが属する業界】
+<!-- 【プロダクトが属する業界】
 
-xxx 業界
+xxx 業界 -->
 
 【プロダクト概要】
 
@@ -339,34 +358,31 @@ xxx
 
 【チーム編成】
 
-- PM x 人
-- バックエンドエンジニア x 人
-- フロントエンドエンジニア x 人
+- PM 1 人
+- 画像生成 AI 調査 2 人
+- テキスト生成 AI 調査 1 人
 
 【ステークホルダー】
 
-- クライアント x 社
+- クライアント 1 社
 
 【言語・フレームワーク】
 
-xxx
+- TypeScript
+- LangChain
 
 【インフラ】
 
-- AWS
-  - xxx
-
-【通信プロトコル】
-
-- xxx
+- Google Cloud
+  - Cloud Run
 
 【ツール】
 
-xxx
+- ChatGPT
 
-【プロダクトが属する業界】
+<!-- 【プロダクトが属する業界】
 
-xxx 業界
+xxx 業界 -->
 
 【プロダクト概要】
 
@@ -404,34 +420,44 @@ xxx
 
 【チーム編成】
 
-- PM x 人
-- バックエンドエンジニア x 人
-- フロントエンドエンジニア x 人
+- PM 1 人
+- バックエンドエンジニア 2 人
+- フロントエンドエンジニア 2 人
 
 【ステークホルダー】
 
-- クライアント x 社
+- クライアント 1 社
 
 【言語・フレームワーク】
 
-xxx
+- TypeScript
+- NestJS
+- Nuxt
 
 【インフラ】
 
-- AWS
-  - xxx
+- Google Cloud
+  - Cloud Run
+  - Cloud SQL
+  - Secret Manager
 
 【通信プロトコル】
 
-- xxx
+- GraphQL
 
 【ツール】
 
-xxx
+- GitHub
+- GitHub Actions
+- Docker
+- Firebase
+- MySQL
+- OpenAPI
+- Prisma
 
 【プロダクトが属する業界】
 
-xxx 業界
+音楽業界
 
 【プロダクト概要】
 
@@ -472,34 +498,42 @@ xxx
 
 【チーム編成】
 
-- PM x 人
-- バックエンドエンジニア x 人
-- フロントエンドエンジニア x 人
+- PM 1 人
+- インフラエンジニア 1 人
+- バックエンドエンジニア 1 人
+- フロントエンドエンジニア 2 人
 
 【ステークホルダー】
 
-- クライアント x 社
+- クライアント 1 社
 
 【言語・フレームワーク】
 
-xxx
+- TypeScript
+- Google App Script
 
 【インフラ】
 
 - AWS
-  - xxx
+  - EC2
+  - Lambda
 
 【通信プロトコル】
 
-- xxx
+- REST
 
 【ツール】
 
-xxx
+- GitHub
+- GitHub Actions
+- Docker
+- Firebase
+- Google SpreadSheet
+- Google Document
 
 【プロダクトが属する業界】
 
-xxx 業界
+スマートフォンゲーム業界
 
 【プロダクト概要】
 
@@ -1547,7 +1581,6 @@ xxx
 【成果】
 
 xxx
-
 
 <!-- ## 2011年04⽉～2012年03⽉
 
