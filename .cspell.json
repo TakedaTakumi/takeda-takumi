@@ -14,7 +14,8 @@
   ],
   "ignoreWords": [
     "devcontainers",
-    "textlint"
+    "textlint",
+    "textlintrc"
   ],
   "ignorePaths": [
     "vscode-extension",
