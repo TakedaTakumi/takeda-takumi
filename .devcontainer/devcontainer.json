@@ -20,7 +20,8 @@
         "files.autoSave": "afterDelay",
         "git-graph.commitDetailsView.location": "Docked to Bottom",
         "textlint.autoFixOnSave": true,
-        "textlint.nodePath": "/workspaces/takeda-takumi/node_modules"
+        "textlint.run": "onSave",
+        "textlint.nodePath": "/app/node_modules"
       },
       // cSpell: disable
       "extensions": [
