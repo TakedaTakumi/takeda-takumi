@@ -10,7 +10,8 @@
     "codi",
     "metasequoia",
     "glsl",
-    "cuda"
+    "cuda",
+    "doku"
   ],
   "ignoreWords": [
     "devcontainers",
