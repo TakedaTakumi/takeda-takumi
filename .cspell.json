@@ -16,7 +16,8 @@
   "ignoreWords": [
     "devcontainers",
     "textlint",
-    "textlintrc"
+    "textlintrc",
+    "DLUT"
   ],
   "ignorePaths": [
     "vscode-extension",
