@@ -26,9 +26,6 @@ importers:
       md-to-pdf:
         specifier: ^5.2.4
         version: 5.2.4
-      puppeteer:
-        specifier: ^24.4.0
-        version: 24.4.0
       textlint:
         specifier: ^14.5.0
         version: 14.5.0
