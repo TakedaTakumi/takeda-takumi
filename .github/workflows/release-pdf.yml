@@ -25,12 +25,8 @@ jobs:
           node-version: 20
           cache: pnpm
       - run: pnpm install
-      - name: Install Puppeteer browsers
-        run: npx puppeteer browsers install chrome
       - name: Build PDF
         run: pnpm run build:pdf
-        env:
-          PUPPETEER_ARGS: '--no-sandbox --disable-setuid-sandbox'
       - name: Create a draft release
         uses: softprops/action-gh-release@v1
         with:
