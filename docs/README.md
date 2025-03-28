@@ -1,5 +1,7 @@
 # 職務経歴書
 
+サイト版は [こちら](https://takedatakumi.github.io/takeda-takumi/)
+
 ## 基本情報
 
 | 項目名 | 　内容 |
