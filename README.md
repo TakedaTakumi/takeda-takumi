@@ -12,7 +12,7 @@
 ## 職務経歴書
 
 - [サイト版](https://takedatakumi.github.io/takeda-takumi/)
-- PDF 版
+- [PDF 版](https://github.com/TakedaTakumi/takeda-takumi/releases/download/release_20250328/README.pdf)
 - [Markdown 版](https://github.com/TakedaTakumi/takeda-takumi/blob/main/docs/README.md)
 
 ## 技術記事
