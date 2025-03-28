@@ -26,7 +26,7 @@ jobs:
           cache: pnpm
       - run: pnpm install
       - name: Build PDF
-        run: pnpm run build:
+        run: pnpm run build
         env:
           PDF_CONFIG_FILE: ./pdf-configs/config.js
       - name: Create a draft release
