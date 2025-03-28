@@ -24,11 +24,9 @@ jobs:
         with:
           node-version: 20
           cache: pnpm
-      - name: Install Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser
       - run: pnpm install
+      - name: Install Puppeteer browsers
+        run: npx puppeteer browsers install chrome
       - run: pnpm run build:pdf
       - name: Create a draft release
         uses: softprops/action-gh-release@v1
