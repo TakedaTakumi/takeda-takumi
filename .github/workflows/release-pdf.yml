@@ -25,6 +25,8 @@ jobs:
           node-version: 20
           cache: pnpm
       - run: pnpm install
+      - name: Install Puppeteer browsers
+        run: npx puppeteer browsers install chrome
       - run: pnpm run build:pdf
       - name: Create a draft release
         uses: softprops/action-gh-release@v1
