@@ -1,6 +1,19 @@
 # takeda-takumi
 
-職務経歴書。
+## 基本情報
+
+- 武田　巧視（たけだ　たくみ）
+- コンサル会社でエンジニアとして働いています
+
+### 今日学んだこと
+
+- [Today I learned](https://github.com/TakedaTakumi/til)
+
+## 職務経歴書
+
+- [サイト版](https://takedatakumi.github.io/takeda-takumi/)
+- PDF 版
+- [Markdown 版](https://github.com/TakedaTakumi/takeda-takumi/blob/main/docs/README.md)
 
 ## 技術記事
 
