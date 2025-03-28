@@ -1,9 +1,11 @@
-# 職務経歴詳細のAIによる要約
+# 職務経歴詳細の AI による要約
 
-## 使用したLLM
+## 使用した LLM
 
-- GitHub Copilotを仕様
+<!-- textlint-disable use-si-units -->
+- GitHub Copilot を仕様
   - Claude 3.7 Sonnet Thinking (Preview)
+<!-- textlint-enable use-si-units -->
 
 ## プロンプト
 
@@ -57,4 +59,3 @@
 ```
 
 [戻る](./README.md#職務経歴詳細)
-
