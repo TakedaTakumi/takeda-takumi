@@ -15,10 +15,18 @@
 - [PDF 版](https://github.com/TakedaTakumi/takeda-takumi/releases/download/release_20250328/README.pdf)
 - [Markdown 版](https://github.com/TakedaTakumi/takeda-takumi/blob/main/docs/README.md)
 
+## ブログ
+
+- [Tak Log](https://takedatakumi.hatenablog.com/)
+
 ## 技術記事
 
 - [Qiita](https://qiita.com/TakedaTakumi)
 - [Zenn（スクラップ）](https://zenn.dev/taketak?tab=scraps)
+
+## SNS
+
+- Twitter（現：X）: [@takeda_takumi_](https://twitter.com/takeda_takumi_)
 
 ## 参考
 
